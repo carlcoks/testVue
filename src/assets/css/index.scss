@@ -1,0 +1,21 @@
+section{
+  padding: 50px;
+}
+.filter{
+  margin-bottom: 20px;
+  display: flex;
+}
+.title{
+  font-size: 20px;
+  font-weight: bold;
+}
+.list{
+  margin-top: 20px;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.btn{
+  margin: 0 15px;
+  cursor: pointer;
+}
